@@ -1,0 +1,31 @@
+.container{
+	background:#0E2F4E;
+}
+b{
+	color:#fff;
+}
+h1{
+	color: #fff;
+	font-size: 30px;
+	text-align:center;
+	font-family:Adobe Gothic Std B; 
+	margin-top: 60px;
+}
+span{
+	color:#209E3A;
+	border-radius:15px;
+	box-shadow: 5px 2px 5px;
+	margin: auto;
+	width: 50px;
+	height: 30px;
+	display: inline-block; 
+	text-align: center;
+	margin-top: 50px;
+}
+.container1{
+	background: #363A3B;
+}
+h2{
+	color:#fff;
+	margin-left: 20px;
+}
